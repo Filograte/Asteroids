@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Dimeji/documents/visual studio 2017/Projects/Asteroids/Asteroids/Content/asteroid.png</File>
+    <File>C:/Users/Dimeji/documents/visual studio 2017/Projects/Asteroids/Asteroids/Content/ship.png</File>
+    <File>C:/Users/Dimeji/documents/visual studio 2017/Projects/Asteroids/Asteroids/Content/Text.spritefont</File>
+    <File>C:/Users/Dimeji/documents/visual studio 2017/Projects/Asteroids/Asteroids/Content/bullet.png</File>
+    <File>C:/Users/Dimeji/documents/visual studio 2017/Projects/Asteroids/Asteroids/Content/bigmeteor.png</File>
+    <File>C:/Users/Dimeji/documents/visual studio 2017/Projects/Asteroids/Asteroids/Content/smallmeteor.png</File>
+    <File>C:/Users/Dimeji/documents/visual studio 2017/Projects/Asteroids/Asteroids/Content/tinymeteor.png</File>
+  </SourceFiles>
+</SourceFileCollection>
