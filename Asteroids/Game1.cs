@@ -604,7 +604,7 @@ namespace Asteroids
 
             //if (ship.Rotation < -3f)
             //    ship.Rotation = 3f;
-            //if (ship.Rotation > 3f)
+            //if (ship.Rotation > 3f
             //    ship.Rotation = -3f;
 
 
